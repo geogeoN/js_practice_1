@@ -1,0 +1,1 @@
+let formattedNumber = (n, separator) => console.log(String(n).split('').join(separator));
